@@ -29,5 +29,5 @@ Record important project information.
 # What is Feedback and Iteration
 Improve based on reviews and user input.
 
-# Good Commit Message Examples
+# Good Commit Message
 -   docs: add engineering workflow notes
