@@ -28,4 +28,4 @@ A request to merge changes into another branch.
 
 ## Good Commit Message Examples
 -   docs: document basic git commands
-
+-   docs: add internet basics explanations
